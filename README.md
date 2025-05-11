@@ -1,5 +1,10 @@
 # 🧠 Intelligent Symptom Interpretation System
 
+## 📄 Project Abstract
+
+The **Intelligent Symptom Interpretation System** is a healthcare-focused chatbot designed to bridge the gap between informal patient symptom descriptions and medically recognized conditions. Many patients express their symptoms using vague or non-clinical language, making it difficult for automated systems to interpret their health concerns accurately. This project leverages Natural Language Processing (NLP) techniques to clean and parse user input, identify key medical symptoms using Named Entity Recognition (NER), and map those symptoms to probable conditions through an ontology-based approach. The chatbot then provides a human-readable response suggesting possible conditions and encourages users to consult healthcare professionals. This system demonstrates a practical application of NLP in health informatics, enabling better triaging and digital symptom checking in clinical environments.
+
+
 ## 📘 Project Overview
 The **Intelligent Symptom Interpretation System** is a chatbot designed for healthcare settings that interprets vague or indirect symptom descriptions from patients and maps them to probable medical conditions. This is especially useful in hospitals where patients may describe symptoms like “I feel dizzy when I get up” instead of using clinical terminology.
 
