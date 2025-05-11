@@ -35,6 +35,10 @@ I feel lightheaded sometimes, and my legs feel weak after walking.
 Based on your symptoms (lightheadedness, leg weakness), you might be experiencing one of the following conditions: Anemia, Orthostatic Hypotension, Peripheral Neuropathy, Multiple Sclerosis. Please consult a healthcare professional for an accurate diagnosis.
 
 
+**Screenshot of the Chatbot Output:**
+![Chatbot Output Example](screenshots/output_screenshot.png)
+
+
 ---
 
 ## 🛠 How to Run (Windows, macOS, Linux)
